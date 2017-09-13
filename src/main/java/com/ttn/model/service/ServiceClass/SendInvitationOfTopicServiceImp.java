@@ -74,7 +74,7 @@ public class SendInvitationOfTopicServiceImp implements SendInvitationOfTopicSer
                     "Creater Name : '\'"+creatorOfTopic+"'\n" +
                     "<br>\n" +
                     "<hr>\n" +
-                    "<a href='http://127.0.0.1:8080/subscribetotopicbyinvitation?topicname="+topicName+"&creatorname="+creatorOfTopic+"&useremail="+email+"' style='text-align: center;width: 200px;'>Click To Subscribe</a>\n" +
+                    "<a href='http://127.0.0.1:8090/subscribetotopicbyinvitation?topicname="+topicName+"&creatorname="+creatorOfTopic+"&useremail="+email+"' style='text-align: center;width: 200px;'>Click To Subscribe</a>\n" +
                     "</div>\n" +
                     "</div>\n" +
                     "</body>\n" +
